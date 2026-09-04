@@ -1,0 +1,3 @@
+[submodule "signssh"]
+	path = signssh
+	url = https://github.com/GoodiesHQ/signssh
