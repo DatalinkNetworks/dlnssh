@@ -1,0 +1,4 @@
+*.zip
+*.exe
+signssh-windows-amd64/
+signssh-windows-arm64/
