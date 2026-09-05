@@ -2,3 +2,5 @@
 *.exe
 signssh-windows-amd64/
 signssh-windows-arm64/
+build_*/
+DLN*
